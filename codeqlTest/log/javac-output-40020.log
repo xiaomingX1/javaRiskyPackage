@@ -1,3 +1,0 @@
-[2022-02-07 10:14:58] [javac-output-40020] warning: [options] system modules path not set in conjunction with -source 11
-[2022-02-07 10:14:59] [javac-output-40020] warning: unknown enum constant When.MAYBE
-[2022-02-07 10:14:59] [javac-output-40020]   reason: class file for javax.annotation.meta.When not found
